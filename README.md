@@ -1,6 +1,6 @@
-#OpenCV & Python Tutorial Series
+# OpenCV & Python Tutorial Series
 
-##Install OpenCV for Python on your system:
+## Install OpenCV for Python on your system:
 #####Links:-
 [Visit Website](https://pypi.org/project/opencv-python/)
  
